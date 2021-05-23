@@ -1,32 +1,23 @@
-# Prerequisites
-*.d
+#///////////////////////////
+# Cocos Creator Project
+#///////////////////////////
+library/
+temp/
+local/
+build/
+profiles/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#//////////////////////////
+# NPM
+#//////////////////////////
+node_modules/
 
-# Precompiled Headers
-*.gch
-*.pch
+#//////////////////////////
+# VSCode
+#//////////////////////////
+.vscode/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/
