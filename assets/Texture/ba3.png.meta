@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "d981db8f-34be-4a0f-8020-ab0f9de5d135",
+  "uuid": "659ff856-e5ac-4548-849a-8fd1607b1422",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "d981db8f-34be-4a0f-8020-ab0f9de5d135@6c48a",
-      "displayName": "ba2",
+      "uuid": "659ff856-e5ac-4548-849a-8fd1607b1422@6c48a",
+      "displayName": "ba3",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "d981db8f-34be-4a0f-8020-ab0f9de5d135"
+        "imageUuidOrDatabaseUri": "659ff856-e5ac-4548-849a-8fd1607b1422"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -33,8 +33,8 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "d981db8f-34be-4a0f-8020-ab0f9de5d135@f9941",
-      "displayName": "ba2",
+      "uuid": "659ff856-e5ac-4548-849a-8fd1607b1422@f9941",
+      "displayName": "ba3",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
@@ -45,17 +45,17 @@
         "offsetY": 0,
         "trimX": 0,
         "trimY": 0,
-        "width": 300,
-        "height": 450,
-        "rawWidth": 300,
-        "rawHeight": 450,
+        "width": 104,
+        "height": 921,
+        "rawWidth": 104,
+        "rawHeight": 921,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "d981db8f-34be-4a0f-8020-ab0f9de5d135@6c48a",
+        "imageUuidOrDatabaseUri": "659ff856-e5ac-4548-849a-8fd1607b1422@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -69,6 +69,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "d981db8f-34be-4a0f-8020-ab0f9de5d135@f9941"
+    "redirect": "659ff856-e5ac-4548-849a-8fd1607b1422@f9941"
   }
 }

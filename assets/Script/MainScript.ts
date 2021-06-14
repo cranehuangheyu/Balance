@@ -204,8 +204,8 @@ export class MainScript extends Component {
         winSize.height = 640 / winSize.height
         let b: any = this.node.getComponent(UITransform)?.convertToNodeSpaceAR(
             new Vec3(
-                    event.touch._point.x * winSize.width, 
-                    event.touch._point.y * winSize.width, 
+                    event.touch._point.x * winSize.height, 
+                    event.touch._point.y * winSize.height, 
                     0));
         return b
     }
